@@ -8,6 +8,7 @@ public class GITTest {
 	public static void main(String[] args) {
 		System.out.println("du bist schiach");
 		System.out.println("Geht's ???");
+		System.out.println("asdf");
 
 	}
 
